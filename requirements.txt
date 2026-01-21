@@ -2,3 +2,5 @@ openai-whisper
 sounddevice
 numpy
 scipy
+opencv-python
+mediapipe
